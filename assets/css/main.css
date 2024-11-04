@@ -74,7 +74,7 @@
 }
 /*-------- SCROLL BAR END --------*/
 
-#scroll-progress {
+/* #scroll-progress {
   position: fixed;
   top: 0;
   width: 100%;
@@ -82,7 +82,7 @@
   background: #f18c08;
   z-index: 10000;
   border-radius: 10px;
-}
+} */
 
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
